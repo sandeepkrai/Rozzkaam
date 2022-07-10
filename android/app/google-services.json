@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724494054854",
+    "project_id": "rozzkaam",
+    "storage_bucket": "rozzkaam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724494054854:android:69bc7af6a5e9e7cdd06ec7",
+        "android_client_info": {
+          "package_name": "com.domin8.rozzkaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724494054854-gh4c7r3p9sd31of832l91cnph2ck18je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7rQKXAuL3npl_mTUTjFULEvGfLbXRxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724494054854-gh4c7r3p9sd31of832l91cnph2ck18je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
